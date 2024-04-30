@@ -1,0 +1,35 @@
+body {
+	background-color: #F5EFE6;
+}
+
+h1 {
+	color: #1A4D2E;
+}
+
+svg {
+	fill: #4F6F52;
+}
+
+.border-bottom {
+	border-color: #E8DFCA !important;
+}
+
+.card {
+	background-color: #E8DFCA;
+}
+
+.about-me {
+	background-color: #4F6F52;
+}
+
+.about-me h2,
+.about-me p {
+	color: #F5EFE6 !important;
+}
+
+#contact-me {
+	min-height: 100vh;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
